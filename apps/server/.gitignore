@@ -49,6 +49,9 @@ lerna-debug.log*
 .temp
 .tmp
 
+# Local accounts until Postgres is connected
+/data
+
 # Runtime data
 pids
 *.pid
